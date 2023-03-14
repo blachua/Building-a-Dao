@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # This is my project title
 
 This sentence describes what my project is about summarized.
@@ -23,3 +24,8 @@ This project has an MIT License.
 
 - [StarterTemplates](https://twitter.com/startertemp)
 - [LearnWeb3DAO](https://learnweb3.io)
+=======
+# Building a Dao
+
+![image](https://user-images.githubusercontent.com/116645635/224653606-6a5e4686-15c7-463d-a7ac-7a8e7fb03fa0.png)
+>>>>>>> origin/main
